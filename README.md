@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JuiceP0uch
+- 👋 Hi, I’m JonathanG.
 - 👀 I’m interested in web and video game development
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on other projects to learn as much as possible 
